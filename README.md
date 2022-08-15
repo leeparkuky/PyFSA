@@ -1,0 +1,2 @@
+# PyFSA
+FSA in Python
